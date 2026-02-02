@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: ap-southeast-1
-  ECR_REPOSITORY: nextjs-app
+  ECR_REPOSITORY: nextjs-app-dev
   ECS_CLUSTER: nextjs-app-cluster
   ECS_SERVICE: nextjs-app-service
 
